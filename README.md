@@ -3,9 +3,9 @@ Phần mềm bán giày thể thao
 
 # Dự án shop bán giày thể thao
 # Công nghệ sử dụng:
-Front-end: HTML,CSS, Javascript, Bootstrap,JSP
-Back-end: String boot, SQL Server
-Công cụ:  mySQL,Intelji,Github,Git,...
+-Front-end: HTML,CSS, Javascript, Bootstrap,JSP
+-Back-end: String boot, SQL Server
+-Công cụ:  mySQL,Intelji,Github,Git,...
 # Thành viên dự án:
 Ngô Phạm Công (Leader)
 Võ Quang Huy
